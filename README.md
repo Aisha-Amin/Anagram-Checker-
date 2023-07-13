@@ -34,3 +34,11 @@ Otherwise, the method returns true, indicating that the strings are anagrams.
 
 ## Space Complexity:
  The space complexity of the areAnagrams() method is O(n), where n is the length of the input strings.
+
+
+The project also contains AnagramCheckerTest with Junit test cases handling the following:
+testAnagramSucess
+testAnagramFailure
+testAnagramWithDifferentLength
+testAreAnagramEmptyStrings
+testAreAnagramWhitespaceStrings
